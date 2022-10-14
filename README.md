@@ -1,7 +1,7 @@
-# package_name
+# Processamento-imagem
 
 Description. 
-The package package_name is used to:
+The package Processamento-imagem is used to:
 	- 
 	-
 
