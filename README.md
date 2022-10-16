@@ -18,7 +18,7 @@ The package Processamento-imagem is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install Riltom-processamento-imagem
+pip install Rilton-processamento-imagem
 ```
 
 
